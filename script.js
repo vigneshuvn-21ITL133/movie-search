@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const apiKey = '6a628aa0a615409d1390e787a71b41b2'; // Replace with your TMDb API key
+    const apiKey = 'ea9373655d991a39fb3bf8119ffc6999'; // Replace with your TMDb API key
     const searchInput = document.getElementById('search-input');
     const searchButton = document.getElementById('search-button');
     const moviesContainer = document.getElementById('movies');
